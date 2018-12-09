@@ -1,25 +1,26 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/social_network.jpg
+title: Agent-based Simulation of Virality
+permalink: projects/social network
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-05-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Social Network Analysis
+  - Agent-based Simulation
+  - Virality
+  - R
+summary: ICS 622 course project
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/social_network.jpg">
+Abstract:
+With the online social media becoming more and more popular, how to spread the information and make the online virality on the targets in a short time is critical. Although the quality of information may still play an important part in how it spread, this paper hold the quality of information as constant, and tries to figure out the other important factors on intermediaries, such as the structure of the social networks and the early adopters of the information. We model agents’ behaviours bases on their utility functions, and then see the effects of the different structure of simulated network and early adopters on the information diffusion. The results show that when the online social network exhibit the more small world property, the information spread is more widely, and when choosing the early adopters by the Page rank, the network has the best adoption rate, that is the retweet rates in the Twitter. Our study also show that even in the absence of empirical data, network sciences can still help us to interpret how information diffusion in the social media.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+[The future works]
+The reason why I selected this topic for the network science class is that I am very interesting in modelling and especially modelling the behaviour of the human being, which always failed in the reality. The other reason is that I also like the statistics. I have found that the literature in online vitality largely covered this two areas.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+So you can see from the abstract that I got some theoretical results from the simulation models, but I can not see the application part, how the empirical results verify the theoretical part? I try to figure it out, but at least in the final report in the course I did not give an answer.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+I was wondering if I want to continue this topic, what should be my focus?Perhaps to finish the empirical part will be my next destination.

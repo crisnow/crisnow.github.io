@@ -1,61 +1,26 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/social_network.jpg
+title: some
+permalink: projects/social network
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-12-15
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Social Network Analysis
+  - Agent-based Simulation
+  - Virality
+  - R
+summary: ICS 622 course project
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui medium right floated rounded image" src="../images/social_network.jpg">
+Abstract:
+With the online social media becoming more and more popular, how to spread the information and make the online virality on the targets in a short time is critical. Although the quality of information may still play an important part in how it spread, this paper hold the quality of information as constant, and tries to figure out the other important factors on intermediaries, such as the structure of the social networks and the early adopters of the information. We model agents’ behaviours bases on their utility functions, and then see the effects of the different structure of simulated network and early adopters on the information diffusion. The results show that when the online social network exhibit the more small world property, the information spread is more widely, and when choosing the early adopters by the Page rank, the network has the best adoption rate, that is the retweet rates in the Twitter. Our study also show that even in the absence of empirical data, network sciences can still help us to interpret how information diffusion in the social media.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+[The future works]
+The reason why I selected this topic for the network science class is that I am very interesting in modelling and especially modelling the behaviour of the human being, which always failed in the reality. The other reason is that I also like the statistics. I have found that the literature in online vitality largely covered this two areas.
 
-To give you a flavor of the game, here is an excerpt from one run:
+So you can see from the abstract that I got some theoretical results from the simulation models, but I can not see the application part, how the empirical results verify the theoretical part? I try to figure it out, but at least in the final report in the course I did not give an answer.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+I was wondering if I want to continue this topic, what should be my focus?Perhaps to finish the empirical part will be my next destination.
