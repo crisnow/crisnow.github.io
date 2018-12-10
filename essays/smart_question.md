@@ -16,13 +16,13 @@ After reading the post of "How To Ask Questions The Smart Way" by Eric Steven Ra
 I have collected both a bad example and a good example, please see the following links.
 https://stackoverflow.com/questions/28673975/which-one-is-right-way-to-write-makefile
 
-<img class="ui tiny left circular floated image" src="../images/badExample.jpg">
+<img class="ui image" src="../images/badExample.jpg">
 
 The bad example, which is against the rules of the Raymond, first of all, it used the informal and even the internet language “btn”, and second, the title is not that clear, he/she has asked “Which one is right way to write Makefile?” but he did not indicate that it is a C language, also the pictures the author provided is not very clear with very small text, which make the post difficult to read. Because the description of the problem is not that clear, the followups and answers to this post is never to the point. 
 
 https://stackoverflow.com/questions/21548464/how-to-write-a-makefile-to-compile-a-simple-c-program
 
-<img class="ui tiny left circular floated image" src="../images/goodExample.jpg">
+<img class="ui image" src="../images/goodExample.jpg">
 
 The good example, we can see here is very clear in term of the title, and the details he wrote. First of all, he give out the specific codes he try to compile, and also give the detailed instructions what is he asked to do, which is very easy to follow and also to answer. One can see that the followup and the answers to this post is quite a lot. And people are actively joining the discussion.
 
