@@ -14,11 +14,17 @@
       "region": "Hawaii"
     },
     "profiles": [
+       {
+        "network": "email",
+        "username": "gongxue",
+        "url": "gongxue@hawaii.edu"
+      },
       {
         "network": "github",
         "username": "crisnow",
         "url": "http://github.com/changeme"
       },
+     
       {
         "network": "linkedin",
         "url": "https://www.linkedin.com/in/xue-gong-98608416a/"
@@ -56,7 +62,10 @@
         "C++",
         "Java",
         "Javascript",
-        "R"
+        "R",
+        "SQL",
+        "Meoter",
+        "React"
       ]
     },
     {
@@ -86,7 +95,7 @@
       "position": "AIM model Intern",
       "website": "https://www.pdc.org",
       "startDate": "2018-06-04",
-      "endDate": "2018-08-04t",
+      "endDate": "2018-08-04",
       "summary": "Internship",
       "highlights": [
         "Update the database in AIM model",
