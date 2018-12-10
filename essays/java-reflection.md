@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Javascript reflection
+title: The Javascript is not Java + script
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
