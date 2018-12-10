@@ -14,7 +14,7 @@ labels:
 summary: ICS 668 Social Informatics course project
 ---
 
-<img class="ui medium right floated rounded image" src="../images/stock_market.jpg">
+<img class="ui medium image" src="../images/stock_market.jpg">
 
 I did this project in ICS 668 class, it is a very interesting project for me, because it is practical. Image that if there is some relationship between the tweets and also the stock market price, then you can know the stock market price before hand, therefore you can make some investments as you want and always can beat the market. The statistics I got from this paper is so good, there did exist some connection between the tweets and price. Below is my abstract for this research.
 
