@@ -22,6 +22,9 @@ But we also got some problems, everyone has different issues and tasks, for exam
 
 For the design of our website, I was thinking to keep it as simple as possible but convey as much as information it can. This is the lesson I have learnt from my internship in one company, the website designer spent two months to make a new version of the website, the look is good, modern and fancy. However, it is not easy to find the information, I try to avoid this situations. To make things complicated, everyone can do, but keep simple and minimal style, it needs to think.
 
-<img class="ui image" src="../images/final_project.jpg">
-
 And last I want to say I was so happy to get the help from Dr. Moore and Vincent this semester, it is really my favourite and fun ICS course so far. 
+
+<img class="ui image" src="../images/final_project1.jpg">
+<img class="ui image" src="../images/final_project2.jpg">
+<img class="ui image" src="../images/final_project3.jpg">
+
