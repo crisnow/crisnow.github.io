@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Semantic UI — a Popular UI Frameworks
+title: Semantic UI — a nice way to start web development
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-03
 labels:
