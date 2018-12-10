@@ -33,3 +33,6 @@ Manoa Club room browse club page:
 Manoa Club room edit club page:
 <img class="ui circular image" src="../images/final_project3.jpg">
 
+
+The github page: 
+[https://github.com/manoaclubroom/manoaclubroom/](https://github.com/manoaclubroom/manoaclubroom/)
