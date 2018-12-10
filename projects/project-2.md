@@ -25,5 +25,6 @@ So you can see from the abstract that I got some theoretical results from the si
 
 I was wondering if I want to continue this topic, what should be my focus?Perhaps to finish the empirical part will be my next destination.
 
-please visit the github page for the sample code. 
-[https://github.com/crisnow/Agent-based-Simulation]https://github.com/crisnow/Agent-based-Simulation
+
+Please visit the github page for the sample code. 
+[https://github.com/crisnow/Agent-based-Simulation](https://github.com/crisnow/Agent-based-Simulation)

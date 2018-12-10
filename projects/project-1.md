@@ -20,3 +20,6 @@ I did this project in ICS 668 class, it is a very interesting project for me, be
 
 [Abstract] Stock market forecasting has been attracted more and more attentions from the practicers and academies. In this research, I will investigate the relationship between well-known mirco-blogging website (twitter) and US companies stock price return. In particular, I will data-mining the twitter tweets of several US companies in Dow Jones Industrial Average (DJIA) index and find out whether there is a relationship between the twitter volume and semantics and the company stock market prices return.
 
+Please visit the github page for sample code.
+[https://github.com/crisnow/Stock_market_forecast_twitter](https://github.com/crisnow/Stock_market_forecast_twitter)
+
