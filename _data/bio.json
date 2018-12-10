@@ -51,6 +51,11 @@
       "name": "artificial intelligence",
       "keywords": [
       ]
+    },
+    {
+      "name": "software engineering",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -65,7 +70,8 @@
         "R",
         "SQL",
         "Meoter",
-        "React"
+        "React",
+        "Mongo"
       ]
     },
     {
@@ -100,7 +106,7 @@
       "highlights": [
         "Update the database in AIM model",
         "AIM Model calibration",
-        "AIM Model validation"
+        "AIM Model data analysis"
       ]
     }
   ],
