@@ -24,3 +24,6 @@ The reason why I selected this topic for the network science class is that I am 
 So you can see from the abstract that I got some theoretical results from the simulation models, but I can not see the application part, how the empirical results verify the theoretical part? I try to figure it out, but at least in the final report in the course I did not give an answer.
 
 I was wondering if I want to continue this topic, what should be my focus?Perhaps to finish the empirical part will be my next destination.
+
+please visit the github page for the sample code. 
+[https://github.com/crisnow/Agent-based-Simulation]https://github.com/crisnow/Agent-based-Simulation
