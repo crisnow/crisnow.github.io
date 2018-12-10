@@ -7,6 +7,7 @@ date: 2018-11-28
 labels:
   - Software Engineering
   - Design Pattern
+  - Pattern Thinking
 ---
 
 I have a sweater which is brought by a European friend as a gift, with some nice pattern ( as the picture below). I liked it very much, when the winter came, I wore it to meet my another friends who also comes from European countries, he said the sweater looked so familiar because of the patterns, and he asked me if I bought it from Europe. I did not surprise that he did not know how I get the clothes (since at that time I was still in Asia), but can recognise the sweater immediately from his home town. Yeah, because of the pattern, it is difficult to miss the origin of the sweater.
