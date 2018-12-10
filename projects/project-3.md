@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/final_project.jpg
-title: some
+image: images/final_project1.jpg
+title: Manoa Club Room | ICS314 Final Project
 permalink: projects/website
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-15
@@ -24,7 +24,12 @@ For the design of our website, I was thinking to keep it as simple as possible b
 
 And last I want to say I was so happy to get the help from Dr. Moore and Vincent this semester, it is really my favourite and fun ICS course so far. 
 
-<img class="ui image" src="../images/final_project1.jpg">
-<img class="ui image" src="../images/final_project2.jpg">
-<img class="ui image" src="../images/final_project3.jpg">
+Manoa Club room landing page:
+<img class="ui medium image" src="../images/final_project1.jpg">
+
+Manoa Club room browse club page:
+<img class="ui medium image" src="../images/final_project2.jpg">
+
+Manoa Club room edit club page:
+<img class="ui medium  image" src="../images/final_project3.jpg">
 
