@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Kristy Gong",
+    "name": "Kristi Gong",
     "label": "Student",
     "picture": "https://crisnow.github.io/images/profile-01.jpg",
-    "email": "gongxue@hawaii.edu",
+    "email": " ",
     "website": "https://crisnow.github.io",
     "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
@@ -14,31 +14,26 @@
       "region": "Hawaii"
     },
     "profiles": [
-       {
-        "network": "email",
-        "username": "gongxue",
-        "url": "gongxue@hawaii.edu"
-      },
       {
         "network": "github",
-        "username": "crisnow",
+        "username": "kristi",
         "url": "http://github.com/crisnow"
       },
       {
         "network": "linkedin",
-        "username": "crisnow",
+        "username": "kristi",
         "url": "https://www.linkedin.com/in/xue-gong-98608416a/"
       }
     ]
   },
   "interests": [
     {
-      "name": "Human Computer Interaction",
+      "name": "data visualization, artificial intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "Statistics, Modelling and Forecasting",
+      "name": "statistics, modelling and forecasting",
       "keywords": [
       ]
     },
@@ -48,7 +43,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "children illustrator",
       "keywords": [
       ]
     },
