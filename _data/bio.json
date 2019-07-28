@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://crisnow.github.io/images/profile-01.jpg",
     "website": "https://crisnow.github.io",
-    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -80,7 +80,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science",
       "studyType": "M.S.",
       "startDate": "2017-08-01",
       "endDate": "Present",
