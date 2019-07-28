@@ -15,12 +15,12 @@
     "profiles": [
       {
         "network": "github",
-        "username": "kristi",
+        "username": "kristi's github",
         "url": "http://github.com/crisnow"
       },
       {
         "network": "linkedin",
-        "username": "kristi",
+        "username": "kristi's linkedin",
         "url": "https://www.linkedin.com/in/xue-gong-98608416a/"
       }
     ]
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "children illustrator",
+      "name": "children illustration",
       "keywords": [
       ]
     },
@@ -58,7 +58,7 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
+        "Python",
         "Java",
         "Javascript",
         "R",
@@ -98,7 +98,7 @@
       "endDate": "2018-08-04",
       "summary": "Internship",
       "highlights": [
-        "Update the database in AIM model",
+        "Update the database in AIM model by SQL",
         "AIM Model calibration",
         "AIM Model data analysis"
       ]
