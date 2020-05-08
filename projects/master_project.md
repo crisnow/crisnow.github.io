@@ -1,27 +1,25 @@
 ---
 layout: project
 type: project
-image: images/multi_arm_bandit2.png
-title: An Application and Visualization of
-Deep Learning Neural Networks and Reinforcement Learning for
-Stock Portfolio Management
-permalink: projects/master_project
+image: images/stock_market.jpg
+title: Stock Market Prediction by Big data
+permalink: projects/stock_market
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-05
+date: 2017-12-15
 labels:
-  -  LSTM Model
-  -  Reinforcement Learning
-  -  Stock Price Forecasting
-  -  Stock Portfolio Management
-summary: Master Project
+  - Stock Market Price
+  - Sentimatic Analysis
+  - Machine Learning
+  - R
+summary: ICS 668 Social Informatics course project
 ---
 
-I have used the deep learning neural network, LSTM to predict the stock prices. The result shows that the LSTM network captures the memory of the time series data and can predict the stock price return well.  I then framed the stock portfolio selection problems as a multi-bandit problem where the agents can select from the results from CNN network, mean-variance portfolio strategy, and uniform buy and sell strategy to gain the most benefit from the stock market. The results show that reinforcement learning can potentially help stock traders better allocate stock portfolios. 
-However, since deep learning network models are highly sensitive to factors such as hyperparameters and network structures, one could also investigate  different network structures and calibrate their hyperparameters, to obtain more satisfactory forecasting results.
+<img class="ui medium image" src="../images/stock_market.jpg">
 
+I did this project in ICS 668 class, it is a very interesting project for me, because it is practical. Image that if there is some relationship between the tweets and also the stock market price, then you can know the stock market price before hand, therefore you can make some investments as you want and always can beat the market. The statistics I got from this paper is so good, there did exist some connection between the tweets and price. Below is my abstract for this research.
 
+[Abstract] Stock market forecasting has been attracted more and more attentions from the practicers and academies. In this research, I will investigate the relationship between well-known mirco-blogging website (twitter) and US companies stock price return. In particular, I will data-mining the twitter tweets of several US companies in Dow Jones Industrial Average (DJIA) index and find out whether there is a relationship between the twitter volume and semantics and the company stock market prices return.
 
-The youtube video:
-https://youtu.be/SHpspYWX0nE
-
+Please visit the github page for sample code.
+[https://github.com/crisnow/Stock_market_forecast_twitter](https://github.com/crisnow/Stock_market_forecast_twitter)
 
