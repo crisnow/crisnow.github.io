@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/multi_arm_bandit2.jpg
+image: images/social_network.jpg
 title: Agent-based Simulation of Virality
 permalink: projects/social network
 # All dates must be YYYY-MM-DD format!
