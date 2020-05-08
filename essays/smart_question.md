@@ -16,7 +16,7 @@ I have used the deep learning neural network, LSTM to predict the stock prices. 
 However, since deep learning network models are highly sensitive to factors such as hyperparameters and network structures, one could also investigate  different network structures and calibrate their hyperparameters, to obtain more satisfactory forecasting results.
 
 
-The video poster is here:  (https://youtu.be/SHpspYWX0nE)
+The video poster is here: [https://youtu.be/SHpspYWX0nE](https://youtu.be/SHpspYWX0nE)
 
 
 
