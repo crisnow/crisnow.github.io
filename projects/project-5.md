@@ -5,7 +5,7 @@ image: images/multi_arm_bandit2.png
 title: An Application and Visualization of
 Deep Learning Neural Networks and Reinforcement Learning for
 Stock Portfolio Management
-permalink: projects/website
+permalink: projects/social network
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-05
 labels:
