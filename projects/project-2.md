@@ -2,7 +2,9 @@
 layout: project
 type: project
 image: images/multi_arm_bandit2.jpg
-title: Agent-based Simulation of Virality
+title:  An Application and Visualization of
+Deep Learning Neural Networks and Reinforcement Learning for
+Stock Portfolio Management
 permalink: projects/social network
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-15
