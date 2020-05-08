@@ -2,7 +2,9 @@
 layout: project
 type: project
 image: images/multi_arm_bandit2.png
-title: Manoa Club Room | ICS314 Final Project
+title: An Application and Visualization of
+Deep Learning Neural Networks and Reinforcement Learning for
+Stock Portfolio Management
 permalink: projects/website
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-05
