@@ -21,10 +21,5 @@ However, since deep learning network models are highly sensitive to factors such
 
 
 
-Manoa Club room landing page:
-<img class="ui image" src="../images/final_project1.jpg">
-
-
-
-The github page: 
-[https://github.com/manoaclubroom](https://github.com/manoaclubroom)
+The youtube video:
+https://youtu.be/SHpspYWX0nE
