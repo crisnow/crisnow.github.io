@@ -7,12 +7,12 @@ Deep Learning Neural Networks and Reinforcement Learning for
 Stock Portfolio Management
 permalink: projects/social network
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-15
+date: 2020-05-15
 labels:
-  - Social Network Analysis
-  - Agent-based Simulation
-  - Virality
-  - R
+  -  LSTM Model
+  -  Reinforcement Learning
+  -  Stock Price Forecasting
+  -  Stock Portfolio Management
 summary: ICS 622 course project
 ---
 
