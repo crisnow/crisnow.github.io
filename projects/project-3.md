@@ -2,16 +2,16 @@
 layout: project
 type: project
 image: images/final_project1.jpg
-title: Manoa Club | ICS414 Final Project
+title: Manoa Club | ICS314 Final Project
 permalink: projects/website
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-15
 labels:
   -  Software Engineering
-  -  ICS 414
+  -  ICS 314
   -  Club Browse Application in UHM
   -  Meoter application
-summary: ICS 414 final project
+summary: ICS 314 final project
 ---
 
 For the final project of ICS 314, I think I have learnt some important things in the software development which I never knew before. What is the teamwork? why coding standard is so important to a team, etc., Let’s me explain them in details.
