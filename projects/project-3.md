@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/final_project1.jpg
-title: Manoa Club Room | ICS314 Final Project
+title: Manoa Club Room | ICS414 Final Project
 permalink: projects/website
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-15
